@@ -1,3 +1,7 @@
+name: Kiainigenk1661
+baseURL: '#'
+title: KyaBlog
+
 module:
     hugoVersion:
         extended: true
@@ -24,8 +28,8 @@ params:
         subtitle:
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.png
+            local: false
+            src: images/kia.jpg
 
     article:
         math: false
