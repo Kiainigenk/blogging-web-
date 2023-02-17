@@ -1,6 +1,6 @@
 name: Kiainigenk1661
 title: KyaBlog
-baseurl: https://example.com
+baseurl: "https://example.com"
 languageCode: en-usS
 theme: hugo-theme-stack
 paginate: 5
