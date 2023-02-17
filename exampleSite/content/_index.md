@@ -5,7 +5,6 @@ menu:
         weight: -100
         params:
             icon: home
+
+imag: images/kia.jpg            
 ---
-
-
-Hizkia Mahesa panggabean 
